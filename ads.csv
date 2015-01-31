@@ -1,0 +1,754 @@
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+Acura,107
+Acura Dealer,86
+Audi,39
+Audi Dealer,42
+BMW,138
+BMW Dealer,251
+Buick,15
+Buick Dealer,13
+Cadillac,65
+Cadillac Dealer,84
+Chevrolet,606
+Chevrolet Dealer,393
+Chrysler,153
+Chrysler Dealer,113
+Dealers de Autos,147
+Dodge,286
+Dodge Dealer,186
+Donaciones de Autos,2
+Ford,687
+Ford Dealer,339
+GMC,119
+GMC Dealer,104
+Honda,975
+Honda Dealer,358
+Hyundai,60
+Hyundai Dealer,146
+Infiniti,83
+Infiniti Dealer,125
+Isuzu,10
+Isuzu Dealer,3
+Jaguar,11
+Jaguar Dealer,15
+Jeep,66
+Jeep Dealer,98
+Kia,44
+Kia Dealer,19
+Land Rover,11
+Land Rover Dealer,38
+Lexus,77
+Lexus Dealer,87
+Lincoln,27
+Lincoln Dealer,23
+Mazda,40
+Mazda Dealer,35
+Mercedes-Benz,105
+Mercedes-Benz Dealer,165
+Mercury,8
+Mercury Dealer,9
+Mini,25
+Mini Dealer,32
+Mitsubishi,51
+Mitsubishi Dealer,39
+Motorhome - RV's,3
+Nissan,583
+Nissan Dealer,407
+Oldsmobile,5
+Oldsmobile Dealer,1
+Otros Autos,121
+Otros Autos Dealer,119
+Plymouth,1
+Plymouth Dealer,3
+Pontiac,28
+Pontiac Dealer,25
+Saturn,19
+Saturn Dealer,12
+Scion,65
+Scion Dealer,55
+Subaru,2
+Subaru Dealer,7
+Subastas de Autos,40
+Suzuki,8
+Suzuki Dealer,6
+Toyota,891
+Toyota Dealer,408
+Volkswagen,129
+Volkswagen Dealer,97
+Volvo,33
+Volvo Dealer,27
+Actuación y Músicos,31
+Asistentes Médicos,22
+Barberos y Cosmetólogas,91
+Bartenders,23
+Bio-Tech y Ciencias,8
+Bodegas y Warehouse,207
+Busco Empleo,462
+Cajeros,44
+Carpinteros y Construcción,180
+Choferes y Troqueros,359
+Computación,16
+Costura,163
+Cuidado de Niños,194
+Diseño Gráfico,18
+Electricistas,30
+Enfermería,13
+Escritores,3
+Fábricas,58
+Gerentes y Supervisores,59
+Guardias,13
+Hoteles,29
+Independientes,283
+Internet,45
+Limpieza,267
+Marketing y Relaciones Públicas,123
+Mecánica de Autos,95
+Meseros y Cocineros,274
+Oficina,213
+Otros empleos,431
+Paralegal,7
+Plomeros,14
+Soldadores,22
+Técnicos de Teléfonos,5
+Telemercadeo,84
+Vendedores,259
+Apartamentos,988
+Busco Rentar,225
+Casas,470
+Casas Móviles,23
+Compartir Cuartos,88
+Cuartos,708
+Edificios,135
+Townhouse-Condominos,82
+Consolidación de Deudas,89
+Modificación de Préstamos,73
+Préstamos para Autos,433
+Préstamos para Casas,126
+Préstamos para Educación,1
+Préstamos para Negocios,70
+Préstamos Personales,545
+Refinanciamientos,66
+Celulares,790
+Computadoras,351
+Diseño Web,184
+Reparaciones de Teléfono y Computadoras,245
+Satélite y Cable,356
+Servicio de Internet,59
+Sistemas de Seguridad,121
+Teléfonos,42
+Baile,14
+Biblia,4
+Bienes Raíces,3
+Career Colleges,10
+Clases de Cocina,8
+Clases de Masaje,2
+Clases por Internet,9
+Community Colleges,5
+Computación,23
+Cosmetología,20
+Escuelas de Tráfico,2
+Escuelas Técnicas,10
+Fotografía y Video,4
+High School GED,1
+Income tax,7
+Inglés y ESL,23
+Manejo,25
+Modelaje y Actuación,3
+Notary Public,2
+Otras Clases y Cursos,78
+Truck Driving School,7
+Universidades,1
+Accesorios para Fiestas,234
+Baños Portátiles,236
+Bartenders,64
+Comida,773
+Decoraciones,220
+Entretenimiento,280
+Florerías,29
+Fotos y Video,697
+Invitaciones,58
+Jumpers,1944
+Limosinas,153
+Otros Servicios de Fiestas,205
+Pastelerías,63
+Payasos,693
+Peinados y Maquillaje,60
+Recuerdos,17
+Salones de Fiestas,797
+Servicios Religiosos y Capillas,26
+Vals y Bailes,58
+Vestidos y Tux,21
+Seguro Dental,1
+Seguros de Auto,609
+Seguros de Camiones,14
+Seguros de Casa,26
+Seguros de Motocicleta,12
+Seguros de Rentas,2
+Seguros de Salud,6
+Seguros de Vida,11
+Agentes,118
+Casas en Foreclosure,248
+Inspectores de Casas,5
+Open House,67
+Servicios de Termitas,5
+Tasadores de Casa,2
+Venta de Apartamentos,99
+Venta de Casas,550
+Venta de Casas Móviles,105
+Venta de Terrenos,28
+Venta de Town House o Condominios,69
+Ventas Comerciales,4
+"Banda, Conjunto y Grupos",2496
+DJs,2011
+Mariachis y Tríos,703
+Otras Músicas para Fiestas,226
+Tamborazo y Norteño,1162
+Abogado para Inquilinos,9
+Abogados de Accidentes,58
+Abogados de Casos Civiles,374
+Abogados de Casos Criminales,25
+Abogados de Casos Familiares,18
+Abogados de Inmigración,40
+Abogados de Social Security y Disability,3
+Adopciones y Familias de Acogida,107
+Bancarrota,30
+Desalojos,35
+Divorcios,17
+Fianzas,32
+Matrimonios,15
+Otros Servicios Legales e Inmigración,14
+Paralegales,357
+Servicios de Huellas Dactilares,4
+Servicios de Inmigración,6
+Accesorios,134
+Artículos Deportivos,44
+Boletos para Eventos,3
+Carniceria,1
+Casas de Empeño,2
+Colchones,38
+Compro Oro,13
+Cosas Gratis o Intercambio,26
+Electrodomésticos,426
+Fórmula de Bebe,59
+Joyas,29
+Liquidaciones,128
+Mayoreo,4951
+Mercancía en venta,446
+Muebles de Casa,423
+Muebles de Oficina,18
+Muebles de Patio,12
+Muebles para Niños,63
+Panaderia y Pasteles,6
+Ropa,3317
+Supermercados,3
+Tiendas de Descuento,47
+Tiendas de Ropa,81
+Tiendas de Segunda Mano,15
+Tiendas de Zapatos,26
+Ventas de Garaje,67
+Acura,107
+Acura Dealer,86
+Audi,39
+Audi Dealer,42
+BMW,138
+BMW Dealer,251
+Buick,15
+Buick Dealer,13
+Cadillac,65
+Cadillac Dealer,84
+Chevrolet,606
+Chevrolet Dealer,393
+Chrysler,153
+Chrysler Dealer,113
+Dealers de Autos,147
+Dodge,286
+Dodge Dealer,186
+Donaciones de Autos,2
+Ford,687
+Ford Dealer,339
+GMC,120
+GMC Dealer,104
+Honda,976
+Honda Dealer,358
+Hyundai,60
+Hyundai Dealer,146
+Infiniti,83
+Infiniti Dealer,125
+Isuzu,10
+Isuzu Dealer,3
+Jaguar,11
+Jaguar Dealer,15
+Jeep,66
+Jeep Dealer,98
+Kia,44
+Kia Dealer,19
+Land Rover,11
+Land Rover Dealer,38
+Lexus,77
+Lexus Dealer,87
+Lincoln,27
+Lincoln Dealer,23
+Mazda,40
+Mazda Dealer,35
+Mercedes-Benz,105
+Mercedes-Benz Dealer,165
+Mercury,8
+Mercury Dealer,9
+Mini,25
+Mini Dealer,32
+Mitsubishi,51
+Mitsubishi Dealer,39
+Motorhome - RV's,3
+Nissan,585
+Nissan Dealer,407
+Oldsmobile,5
+Oldsmobile Dealer,1
+Otros Autos,121
+Otros Autos Dealer,119
+Plymouth,1
+Plymouth Dealer,3
+Pontiac,28
+Pontiac Dealer,25
+Saturn,19
+Saturn Dealer,12
+Scion,65
+Scion Dealer,55
+Subaru,2
+Subaru Dealer,7
+Subastas de Autos,40
+Suzuki,8
+Suzuki Dealer,6
+Toyota,891
+Toyota Dealer,408
+Volkswagen,129
+Volkswagen Dealer,97
+Volvo,33
+Volvo Dealer,27
+Actuación y Músicos,31
+Asistentes Médicos,22
+Barberos y Cosmetólogas,91
+Bartenders,23
+Bio-Tech y Ciencias,8
+Bodegas y Warehouse,207
+Busco Empleo,462
+Cajeros,44
+Carpinteros y Construcción,180
+Choferes y Troqueros,359
+Computación,16
+Costura,163
+Cuidado de Niños,194
+Diseño Gráfico,18
+Electricistas,30
+Enfermería,13
+Escritores,3
+Fábricas,58
+Gerentes y Supervisores,59
+Guardias,13
+Hoteles,29
+Independientes,283
+Internet,45
+Limpieza,267
+Marketing y Relaciones Públicas,123
+Mecánica de Autos,95
+Meseros y Cocineros,274
+Oficina,213
+Otros empleos,431
+Paralegal,7
+Plomeros,14
+Soldadores,22
+Técnicos de Teléfonos,5
+Telemercadeo,84
+Vendedores,259
+Apartamentos,989
+Busco Rentar,225
+Casas,470
+Casas Móviles,23
+Compartir Cuartos,88
+Cuartos,709
+Edificios,135
+Townhouse-Condominos,82
+Consolidación de Deudas,89
+Modificación de Préstamos,73
+Préstamos para Autos,433
+Préstamos para Casas,126
+Préstamos para Educación,1
+Préstamos para Negocios,70
+Préstamos Personales,545
+Refinanciamientos,66
+Celulares,790
+Computadoras,351
+Diseño Web,184
+Reparaciones de Teléfono y Computadoras,245
+Satélite y Cable,356
+Servicio de Internet,59
+Sistemas de Seguridad,121
+Teléfonos,42
+Baile,14
+Biblia,4
+Bienes Raíces,3
+Career Colleges,10
+Clases de Cocina,8
+Clases de Masaje,2
+Clases por Internet,9
+Community Colleges,5
+Computación,23
+Cosmetología,20
+Escuelas de Tráfico,2
+Escuelas Técnicas,10
+Fotografía y Video,4
+High School GED,1
+Income tax,7
+Inglés y ESL,23
+Manejo,25
+Modelaje y Actuación,3
+Notary Public,2
+Otras Clases y Cursos,78
+Truck Driving School,7
+Universidades,1
+Accesorios para Fiestas,234
+Baños Portátiles,236
+Bartenders,64
+Comida,773
+Decoraciones,220
+Entretenimiento,280
+Florerías,29
+Fotos y Video,697
+Invitaciones,58
+Jumpers,1944
+Limosinas,153
+Otros Servicios de Fiestas,205
+Pastelerías,63
+Payasos,693
+Peinados y Maquillaje,60
+Recuerdos,17
+Salones de Fiestas,797
+Servicios Religiosos y Capillas,26
+Vals y Bailes,58
+Vestidos y Tux,21
+Seguro Dental,1
+Seguros de Auto,609
+Seguros de Camiones,14
+Seguros de Casa,26
+Seguros de Motocicleta,12
+Seguros de Rentas,2
+Seguros de Salud,6
+Seguros de Vida,11
+Agentes,118
+Casas en Foreclosure,248
+Inspectores de Casas,5
+Open House,67
+Servicios de Termitas,5
+Tasadores de Casa,2
+Venta de Apartamentos,99
+Venta de Casas,550
+Venta de Casas Móviles,105
+Venta de Terrenos,28
+Venta de Town House o Condominios,69
+Ventas Comerciales,4
+"Banda, Conjunto y Grupos",2496
+DJs,2011
+Mariachis y Tríos,703
+Otras Músicas para Fiestas,226
+Tamborazo y Norteño,1162
+Abogado para Inquilinos,9
+Abogados de Accidentes,58
+Abogados de Casos Civiles,374
+Abogados de Casos Criminales,25
+Abogados de Casos Familiares,18
+Abogados de Inmigración,40
+Abogados de Social Security y Disability,3
+Adopciones y Familias de Acogida,107
+Bancarrota,30
+Desalojos,35
+Divorcios,17
+Fianzas,32
+Matrimonios,15
+Otros Servicios Legales e Inmigración,14
+Paralegales,357
+Servicios de Huellas Dactilares,4
+Servicios de Inmigración,6
+Accesorios,134
+Artículos Deportivos,44
+Boletos para Eventos,3
+Carniceria,1
+Casas de Empeño,2
+Colchones,38
+Compro Oro,13
+Cosas Gratis o Intercambio,26
+Electrodomésticos,426
+Fórmula de Bebe,59
+Joyas,29
+Liquidaciones,128
+Mayoreo,4951
+Mercancía en venta,446
+Muebles de Casa,423
+Muebles de Oficina,18
+Muebles de Patio,12
+Muebles para Niños,63
+Panaderia y Pasteles,6
+Ropa,3317
+Supermercados,3
+Tiendas de Descuento,47
+Tiendas de Ropa,81
+Tiendas de Segunda Mano,15
+Tiendas de Zapatos,26
+Ventas de Garaje,67
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+acura,108
+acura dealer,86
+audi,38
+audi dealer,42
+bmw,137
+bmw dealer,251
+buick,15
+buick dealer,13
+cadillac,68
+cadillac dealer,84
+chevrolet,608
+chevrolet dealer,393
+chrysler,153
+chrysler dealer,113
+dealers de autos,147
+dodge,283
+dodge dealer,186
+donaciones de autos,2
+ford,692
+ford dealer,339
+gmc,121
+gmc dealer,104
+honda,990
+honda dealer,358
+hyundai,61
+hyundai dealer,146
+infiniti,83
+infiniti dealer,125
+isuzu,10
+isuzu dealer,3
+jaguar,11
+jaguar dealer,15
+jeep,66
+jeep dealer,98
+kia,43
+kia dealer,19
+land rover,11
+land rover dealer,38
+lexus,77
+lexus dealer,86
+lincoln,28
+lincoln dealer,23
+mazda,40
+mazda dealer,35
+mercedes-benz,106
+mercedes-benz dealer,165
+mercury,8
+mercury dealer,10
+mini,25
+mini dealer,32
+mitsubishi,51
+mitsubishi dealer,39
+motorhome - rv's,3
+nissan,595
+nissan dealer,410
+oldsmobile,5
+oldsmobile dealer,1
+otros autos,122
+otros autos dealer,119
+plymouth,1
+plymouth dealer,3
+pontiac,28
+pontiac dealer,25
+saturn,18
+saturn dealer,12
+scion,66
+scion dealer,56
+subaru,2
+subaru dealer,7
+subastas de autos,40
+suzuki,7
+suzuki dealer,6
+toyota,903
+toyota dealer,410
+volkswagen,127
+volkswagen dealer,97
+volvo,33
+volvo dealer,27
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+actuación y músicos,32
+asistentes médicos,23
+barberos y cosmetólogas,91
+bartenders,23
+bio-tech y ciencias,8
+bodegas y warehouse,218
+busco empleo,471
+cajeros,44
+carpinteros y construcción,183
+choferes y troqueros,370
+computación,17
+costura,170
+cuidado de niños,196
+diseño gráfico,19
+electricistas,29
+enfermería,13
+escritores,3
+fábricas,60
+gerentes y supervisores,59
+guardias,13
+hoteles,29
+independientes,285
+internet,46
+limpieza,271
+marketing y relaciones públicas,126
+mecánica de autos,98
+meseros y cocineros,282
+oficina,216
+otros empleos,438
+paralegal,8
+plomeros,15
+soldadores,23
+técnicos de teléfonos,6
+telemercadeo,86
+vendedores,262
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+apartamentos,991
+busco rentar,225
+casas,476
+casas móviles,23
+compartir cuartos,88
+cuartos,718
+edificios,137
+townhouse-condominos,82
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+consolidación de deudas,89
+modificación de préstamos,74
+préstamos para autos,439
+préstamos para casas,126
+préstamos para educación,1
+préstamos para negocios,70
+préstamos personales,549
+refinanciamientos,66
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+celulares,793
+computadoras,352
+diseño web,184
+reparaciones de teléfono y computadoras,245
+satélite y cable,356
+servicio de internet,59
+sistemas de seguridad,125
+teléfonos,42
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+baile,15
+biblia,4
+bienes raíces,3
+career colleges,10
+clases de cocina,8
+clases de masaje,2
+clases por internet,9
+community colleges,5
+computación,23
+cosmetología,20
+escuelas de tráfico,2
+escuelas técnicas,10
+fotografía y video,4
+high school ged,1
+income tax,8
+inglés y esl,23
+manejo,25
+modelaje y actuación,3
+notary public,2
+otras clases y cursos,80
+truck driving school,7
+universidades,1
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+accesorios para fiestas,235
+baños portátiles,240
+bartenders,66
+comida,782
+decoraciones,221
+entretenimiento,281
+florerías,29
+fotos y video,716
+invitaciones,58
+jumpers,1965
+limosinas,154
+otros servicios de fiestas,206
+pastelerías,63
+payasos,704
+peinados y maquillaje,64
+recuerdos,17
+salones de fiestas,806
+servicios religiosos y capillas,26
+vals y bailes,59
+vestidos y tux,21
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+seguro dental,1
+seguros de auto,610
+seguros de camiones,14
+seguros de casa,26
+seguros de motocicleta,12
+seguros de rentas,2
+seguros de salud,6
+seguros de vida,11
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+agentes,118
+casas en foreclosure,249
+inspectores de casas,5
+open house,67
+servicios de termitas,5
+tasadores de casa,2
+venta de apartamentos,99
+venta de casas,552
+venta de casas móviles,107
+venta de terrenos,28
+venta de town house o condominios,69
+ventas comerciales,4
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+"banda, conjunto y grupos",2510
+djs,2025
+mariachis y tríos,706
+otras músicas para fiestas,228
+tamborazo y norteño,1174
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+abogado para inquilinos,10
+abogados de accidentes,59
+abogados de casos civiles,375
+abogados de casos criminales,25
+abogados de casos familiares,18
+abogados de inmigración,40
+abogados de social security y disability,3
+adopciones y familias de acogida,107
+bancarrota,30
+desalojos,35
+divorcios,18
+fianzas,32
+matrimonios,15
+otros servicios legales e inmigración,14
+paralegales,357
+servicios de huellas dactilares,4
+servicios de inmigración,6
+title,total_ads,total_vists,total_page_views,total_impressions,cpc,rpm,revenue
+accesorios,136
+artículos deportivos,46
+boletos para eventos,3
+carniceria,1
+casas de empeño,2
+colchones,38
+compro oro,13
+cosas gratis o intercambio,26
+electrodomésticos,430
+fórmula de bebe,61
+joyas,29
+liquidaciones,129
+mayoreo,4953
+mercancía en venta,449
+muebles de casa,435
+muebles de oficina,18
+muebles de patio,13
+muebles para niños,66
+panaderia y pasteles,6
+ropa,3319
+supermercados,3
+tiendas de descuento,47
+tiendas de ropa,81
+tiendas de segunda mano,16
+tiendas de zapatos,26
+ventas de garaje,67
