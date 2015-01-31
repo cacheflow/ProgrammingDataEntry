@@ -16,7 +16,9 @@ second.each do |csv|
 	data[:uniques] = csv.fields([:uniques]).to_s.tr('[]+""', '')
 
 
-	puts data.class
+	if data.include?("elclasificado")
+		puts data 
+	end 
 	# hash[:site] = csv.fields([:page])
 	# hash[:views] = csv.fields([:pageviews]).to_s
 	# hash[:unique] = csv.fields([:uniques]).to_s
